@@ -7,13 +7,13 @@ with open("LICENSE") as f:
     license = f.read()
 
 setup(
-    name="exorcise-fun",
+    name="exorcise_fun",
     version="0.0.0",
     description="Exorcise emojis from command line tools.",
     long_description=readme,
     author="Yuval Langer",
     author_email="yuvallangerontheroad@gmail.com",
-    url="https://gitlab.com/yuvallangerontheroad/exorcise-fun",
+    url="https://codeberg.org/yuvallangerontheroad/exorcise-fun",
     license=license,
     entry_points={
         "console_scripts": [
