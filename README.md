@@ -10,11 +10,14 @@ It will filter out all so called emojis and leave your terminal a colourless dar
 
 Main development repository is on codeberg.org:
 
-https://codeberg.org/yuvallangerontheroad/exorcise-fun/
+<https://codeberg.org/yuvallangerontheroad/exorcise-fun>
 
 Mirrors:
 
-None yet.
+* <https://gitlab.com/yuvallangerontheroad/exorcise-fun>
+* <https://gitlab.com/yuvallanger/exorcise-fun>
+* <https://github.com/yuvallangerontheroad/exorcise-fun>
+* <https://github.com/yuvallanger/exorcise-fun>
 
 ## Changelog:
 
